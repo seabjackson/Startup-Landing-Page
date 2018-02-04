@@ -3,6 +3,7 @@ body {
 	background-size: cover;
 	background-position: center;
 	font-family: Lato;
+	color: white;
 }
 
 
@@ -11,6 +12,19 @@ body {
 	padding-top: 25%;
 }
 
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+}
+
+hr {
+	background-color: white;
+}
+
+html {
+	height: 100%;
+}
+
 /*https://images.unsplash.com/photo-1496806195556-91bdded94209?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7f48bc99b65f58ad0c90a24acb2cd30d&auto=format&fit=crop&w=3300&q=80*/
 /*https://images.unsplash.com/photo-1471874276752-65e2d717604a?ixlib=rb-0.3.5&s=0b402784efed68390520aaac62175c73&auto=format&fit=crop&w=3300&q=80*/
-https://images.unsplash.com/photo-1517429481096-5bc77134f77c?ixlib=rb-0.3.5&s=37f5c2eeedf7cbfb2ab9cef32acd3946&auto=format&fit=crop&w=3400&q=80
+/*https://images.unsplash.com/photo-1517429481096-5bc77134f77c?ixlib=rb-0.3.5&s=37f5c2eeedf7cbfb2ab9cef32acd3946&auto=format&fit=crop&w=3400&q=80*/
